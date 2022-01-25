@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/aditya1036?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aditya1036?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
@@ -7,10 +7,9 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is Huỳnh Lê Thủy Tiên <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 3rd year student at FPT University - Ho Chi Minh City Campus
+- :credit_card: My full name is Aditya Khandelwal <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: I'm currently 3rd year student at  University
 - :books: My major is Software Engineering
-- :earth_asia: I'm living now in Ho Chi Minh City, Viet Nam
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
@@ -23,12 +22,12 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1036&layout=compact&show_icon=true&theme=algolia" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=aditya1036&layout=compact&show_icon=true&theme=algolia"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=aditya1036&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=aditya1036&theme=react-dark"/>
 </div>
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
@@ -49,11 +48,10 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
 </div>
